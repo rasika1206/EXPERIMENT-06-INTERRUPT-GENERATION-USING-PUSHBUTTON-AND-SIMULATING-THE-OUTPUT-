@@ -101,11 +101,11 @@ HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_1);
 
 
 ## Output screen shots of proteus  :
-   ##OFF STATE:
+   OFF STATE:
    
  ![exp-6 off mode](https://github.com/rasika1206/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/124434806/b0ed8220-5150-424f-8edd-2dbec8469864)
 
-   ##ON STATE:
+   ON STATE:
    ![exp-6 on mode](https://github.com/rasika1206/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/124434806/60ed4c97-6c71-4495-b6c8-11a69d041034)
 
 
